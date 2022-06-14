@@ -17,7 +17,7 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2022-07-05T12:00:00Z",
+      "requiredInstallationDate": "2022-06-17T12:00:00Z",
       "requiredMinimumOSVersion": "12.4",
       "targetedOSVersionsRule": "default"
     }
@@ -29,14 +29,14 @@
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 5,
-    "initialRefreshCycle": 18000,
-    "approachingRefreshCycle": 6000,
-    "approachingWindowTime": 72,
-    "imminentRefreshCycle": 600,
-    "imminentWindowTime": 24,
     "elapsedRefreshCycle": 300,
+    "initialRefreshCycle": 18000,
     "nudgeRefreshCycle": 60,
-    "randomDelay": false
+    "randomDelay": false,
+    "approachingWindowTime": 72,
+    "approachingRefreshCycle": 6000,
+    "imminentWindowTime": 24,
+    "imminentRefreshCycle": 600
   },
   "userInterface": {
     "updateElements": [
