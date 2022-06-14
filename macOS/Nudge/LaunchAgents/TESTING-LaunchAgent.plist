@@ -12,7 +12,7 @@
 	<array>
 		<string>/Applications/Utilities/Nudge.app/Contents/MacOS/Nudge</string>
 		<string>-json-url</string>
-		<string>https://raw.githubusercontent.com/BaltoSoftware/Balto-IT-Team/main/com.github.macadmins.Nudge-Test.json</string>
+		<string>https://raw.githubusercontent.com/BaltoSoftware/Balto-IT-Team/main/macOS/Nudge/Configs/TESTING-Config.json</string>
 	</array>
 	<key>RunAtLoad</key>
 	<true/>
