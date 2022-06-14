@@ -18,8 +18,8 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2022-06-15T12:00:00Z",
-      "requiredMinimumOSVersion": "12.5",
+      "requiredInstallationDate": "2022-07-05T12:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -30,13 +30,23 @@
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 5,
-    "elapsedRefreshCycle": 300,
     "initialRefreshCycle": 18000,
-    "nudgeRefreshCycle": 60,
-    "randomDelay": false,
-    "approachingWindowTime": 72,
     "approachingRefreshCycle": 6000,
+    "approachingWindowTime": 72,
+    "imminentRefreshCycle": 600,
     "imminentWindowTime": 24,
-    "imminentRefreshCycle": 600
+    "elapsedRefreshCycle": 300,
+    "nudgeRefreshCycle": 60,
+    "randomDelay": false
+  },
+  "userInterface": {
+    "updateElements": [
+      {
+        "mainHeader": "Your MacBook requires a security update",
+        "subHeader": "A friendly reminder from Balto's IT team",
+        "mainContentHeader": "Your device will restart during this update",
+        "mainContentSubHeader": "Updates can take around 30-45 minutes to complete"
+      }
+    ]
   }
 }

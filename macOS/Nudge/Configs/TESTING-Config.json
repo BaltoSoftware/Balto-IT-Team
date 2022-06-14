@@ -38,6 +38,16 @@
     "approachingRefreshCycle": 6000,
     "imminentWindowTime": 24,
     "imminentRefreshCycle": 600
+  },
+  "userInterface": {
+    "updateElements": [
+      {
+        "mainHeader": "Your MacBook requires a security update",
+        "subHeader": "A friendly reminder from Balto's IT team",
+        "mainContentHeader": "Your device will restart during this update",
+        "mainContentSubHeader": "Updates can take around 30-45 minutes to complete"
+      }
+    ]
   }
 }
 
