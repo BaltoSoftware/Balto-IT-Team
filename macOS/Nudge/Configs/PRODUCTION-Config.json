@@ -42,6 +42,7 @@
   "userInterface": {
     "updateElements": [
       {
+        "_language": "en",
         "mainHeader": "Your MacBook requires a security update",
         "subHeader": "A friendly reminder from Balto's IT team",
         "mainContentHeader": "Your device will restart during this update",
