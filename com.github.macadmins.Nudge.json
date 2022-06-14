@@ -1,0 +1,65 @@
+{
+  "optionalFeatures": {
+    "acceptableAssertionApplicationNames": [
+        "zoom.us",
+        "Meeting Center",
+        "Google Chrome",
+        "Safari"
+    ],
+    "acceptableAssertionUsage": true,
+    "acceptableCameraUsage": true,
+    "acceptableScreenSharingUsage": true,
+    "attemptToBlockApplicationLaunches": false,
+    "blockedApplicationBundleIDs": [
+      "com.microsoft.VSCode",
+      "us.zoom.xos"
+    ],
+    "terminateApplicationsOnLaunch": false
+  },
+  "osVersionRequirements": [
+    {
+      "requiredInstallationDate": "2022-07-05T12:00:00Z",
+      "requiredMinimumOSVersion": "12.4",
+      "targetedOSVersionsRule": "default"
+    }
+  ],
+  "userExperience": {
+    "allowGracePeriods": true,
+    "gracePeriodInstallDelay": 23,
+    "gracePeriodLaunchDelay": 1,
+    "gracePeriodPath": "/private/var/db/.AppleSetupDone",
+    "allowUserQuitDeferrals": true,
+    "allowedDeferrals": 5,
+    "elapsedRefreshCycle": 300,
+    "initialRefreshCycle": 18000,
+    "nudgeRefreshCycle": 60,
+    "randomDelay": false,
+    "approachingWindowTime": 72,
+    "approachingRefreshCycle": 6000,
+    "imminentWindowTime": 24,
+    "imminentRefreshCycle": 600
+  },
+  "userInterface": {
+    "fallbackLanguage": "en",
+    "forceFallbackLanguage": true,
+    "updateElements": [
+      {
+        "_language": "en",
+        "actionButtonText": "actionButtonText",
+        "customDeferralButtonText": "customDeferralButtonText",
+        "customDeferralDropdownText": "customDeferralDropdownText",
+        "informationButtonText": "informationButtonText",
+        "mainContentHeader": "mainContentHeader",
+        "mainContentNote": "mainContentNote",
+        "mainContentSubHeader": "mainContentSubHeader",
+        "mainContentText": "mainContentText",
+        "mainHeader": "mainHeader",
+        "oneDayDeferralButtonText": "oneDayDeferralButtonText",
+        "oneHourDeferralButtonText": "oneHourDeferralButtonText",
+        "primaryQuitButtonText": "primaryQuitButtonText",
+        "secondaryQuitButtonText": "secondaryQuitButtonText",
+        "subHeader": "subHeader"
+      }
+    ]
+  }
+}
