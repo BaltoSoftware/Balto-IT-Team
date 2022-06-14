@@ -11,7 +11,17 @@
     "attemptToBlockApplicationLaunches": false,
     "blockedApplicationBundleIDs": [
       "com.microsoft.VSCode",
-      "us.zoom.xos"
+      "com.tinyspeck.slackmacgap",
+      "us.zoom.xos",
+      "com.google.Chrome",
+      "com.apple.Safari",
+      "org.mozilla.firefox",
+      "com.spotify.client",
+      "com.apple.Terminal",
+      "com.jetbrains.pycharm",
+      "com.postmanlabs.mac",
+      "com.jetbrains.intellij",
+      "com.docker.docker"
     ],
     "terminateApplicationsOnLaunch": false
   },
@@ -48,7 +58,14 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentSubHeader": "Updates can take around 30-45 minutes to complete",
         "mainContentNote": "Important Notes",
-        "mainContentText": "A fully up-to-date macOS is required to ensure that Balto IT can your accurately protect and support your Mac, so it can continue to provide you with the best user experience possible every day.\n\nThis update must be installed on your Mac prior to Thursday June 23, 2022. If you do not update your Mac prior to the installation deadline, you may lose access to applications necessary for your day-to-day tasks until it is installed.\n\nTo begin the install now, simply click the blue \“Install Update Now\” button above and follow the provided steps. To schedule a reminder to install later, click \“I Understand\” or \"Schedule Reminder\" below."
+        "mainContentText": "A fully up-to-date macOS is required to ensure that Balto IT can accurately protect and support your Mac, so your device can continue to provide you with the best user experience possible every day.\\n\\nThis update must be installed on your Mac prior to Thursday June 23, 2022. If you do not update your Mac prior to the installation deadline, you may lose access to applications necessary for your day-to-day tasks until it is installed.\\n\\nTo begin the install now, simply click the blue \"Install Update Now\" button above and follow the provided steps. To schedule a reminder to install later, click \"I Understand\" or \"Schedule Reminder\" below.",
+        "actionButtonText": "Install Update Now",
+        "customDeferralButtonText": "Select a Date and Time",
+        "customDeferralDropdownText": "Schedule Reminder",
+        "primaryQuitButtonText": "Later",
+        "secondaryQuitButtonText": "I Understand",
+        "oneHourDeferralButtonText": "One Hour",
+        "oneDayDeferralButtonText": "Tomorrow"
       }
     ]
   }
