@@ -2,7 +2,6 @@
   "optionalFeatures": {
     "acceptableAssertionApplicationNames": [
         "zoom.us",
-        "Meeting Center",
         "Google Chrome",
         "Safari"
     ],
