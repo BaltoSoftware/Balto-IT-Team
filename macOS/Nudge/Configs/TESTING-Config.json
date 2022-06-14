@@ -38,4 +38,6 @@
     "approachingRefreshCycle": 6000,
     "imminentWindowTime": 24,
     "imminentRefreshCycle": 600
+  }
 }
+
