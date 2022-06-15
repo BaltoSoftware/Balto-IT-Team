@@ -46,7 +46,7 @@
     "randomDelay": false,
     "approachingWindowTime": 96,
     "approachingRefreshCycle": 3600,
-    "imminentWindowTime": 48,
+    "imminentWindowTime": 24,
     "imminentRefreshCycle": 600
   },
   "userInterface": {
