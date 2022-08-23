@@ -3,7 +3,7 @@
 # URL to raw file on GitHub
 baseURL="https://raw.githubusercontent.com/BaltoSoftware/Balto-IT-Team/main/macOS/Nudge/LaunchAgents"
 # Name of plist in the repository
-fileName="PRODUCTION-LaunchAgent.plist"
+fileName="Balto-NudgeLaunchAgent-1.0.plist"
 # If you change your agent file name, update the following line
 launch_agent_plist_name='com.github.macadmins.Nudge.plist'
 # Base paths
