@@ -65,7 +65,9 @@
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I Understand",
         "oneHourDeferralButtonText": "One Hour",
-        "oneDayDeferralButtonText": "Tomorrow"
+        "oneDayDeferralButtonText": "Tomorrow",
+        "iconDarkPath": "/private/etc/Balto/Balto-Nudge-Icon.png",
+        "iconLightPath": "/private/etc/Balto/Balto-Nudge-Icon.png",
       }
     ]
   }
