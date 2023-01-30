@@ -27,8 +27,8 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2023-02-07T12:00:00Z",
-      "requiredMinimumOSVersion": "13.1",
+      "requiredInstallationDate": "2023-01-28T12:00:00Z",
+      "requiredMinimumOSVersion": "13.2",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -38,7 +38,7 @@
     "gracePeriodLaunchDelay": 1,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "allowUserQuitDeferrals": true,
-    "allowedDeferrals": 15,
+    "allowedDeferrals": 20,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 5,
     "elapsedRefreshCycle": 60,
     "initialRefreshCycle": 9000,
