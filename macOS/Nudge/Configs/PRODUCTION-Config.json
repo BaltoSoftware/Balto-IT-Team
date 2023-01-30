@@ -27,8 +27,8 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2022-12-20T17:00:00-05:00",
-      "requiredMinimumOSVersion": "12.6.1",
+      "requiredInstallationDate": "2023-02-13T23:00:00Z",
+      "requiredMinimumOSVersion": "13.2",
       "targetedOSVersionsRule": "default"
     }
   ],
@@ -38,7 +38,7 @@
     "gracePeriodLaunchDelay": 1,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "allowUserQuitDeferrals": true,
-    "allowedDeferrals": 15,
+    "allowedDeferrals": 20,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 10,
     "elapsedRefreshCycle": 60,
     "initialRefreshCycle": 9000,
@@ -56,9 +56,9 @@
         "mainHeader": "Your MacBook requires a security update",
         "subHeader": "A friendly reminder from Balto's IT team",
         "mainContentHeader": "Your device will restart during this update",
-        "mainContentSubHeader": "Updates can take around 30-45 minutes to complete",
+        "mainContentSubHeader": "Updates can take around 60-70 minutes to complete",
         "mainContentNote": "Important Notes",
-        "mainContentText": "A fully up-to-date macOS is required to ensure that Balto IT can accurately protect and support your Mac, so your device can continue to provide you with the best user experience possible every day.\\n\\nThis update must be installed on your Mac prior to Tuesday, December 20th at 5:00pm CT. If you do not update your Mac prior to the installation deadline, you will lose access to applications necessary for your day-to-day tasks until it is installed.\\n\\nTo begin the install now, simply click the \"Install Update Now\" button above and follow the provided steps. To schedule a reminder to install later, click \"I Understand\" or \"Defer\" below.",
+        "mainContentText": "A fully up-to-date macOS is required to ensure that Balto IT can accurately protect and support your Mac, so your device can continue to provide you with the best user experience possible every day.\\n\\nThis update must be installed on your Mac prior to Monday, February 13th at 5:00pm CT. If you do not update your Mac prior to the installation deadline, you will lose access to applications necessary for your day-to-day tasks until it is installed.\\n\\nTo begin the install now, simply click the \"Install Update Now\" button above and follow the provided steps. To schedule a reminder to install later, click \"I Understand\" or \"Defer\" below.",
         "actionButtonText": "Install Update Now",
         "customDeferralButtonText": "Select a Date and Time",
         "customDeferralDropdownText": "Defer",
