@@ -35,7 +35,7 @@
   "userExperience": {
     "allowGracePeriods": true,
     "gracePeriodInstallDelay": 23,
-    "gracePeriodLaunchDelay": 1,
+    "gracePeriodLaunchDelay": 0,
     "gracePeriodPath": "/private/var/db/.AppleSetupDone",
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 20,
