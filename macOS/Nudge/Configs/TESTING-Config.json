@@ -63,7 +63,7 @@
         "customDeferralButtonText": "Select a Date and Time",
         "customDeferralDropdownText": "Schedule Reminder",
         "primaryQuitButtonText": "Later",
-        "secondaryQuitButtonText": "I Understand",
+        "secondaryQuitButtonText": "I Understand.",
         "oneHourDeferralButtonText": "One Hour",
         "oneDayDeferralButtonText": "Tomorrow",
         "iconDarkPath": "/private/etc/Balto/Balto-Nudge-Icon.png",
