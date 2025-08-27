@@ -27,7 +27,7 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2025-03-28T23:30:00Z",
+      "requiredInstallationDate": "2025-08-31T23:30:00Z",
       "requiredMinimumOSVersion": "15.3.1",
       "targetedOSVersionsRule": "default"
     }
