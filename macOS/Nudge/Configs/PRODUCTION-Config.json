@@ -27,7 +27,7 @@
   },
   "osVersionRequirements": [
     {
-      "requiredInstallationDate": "2026-03-30T23:30:00Z",
+      "requiredInstallationDate": "2026-04-02T23:30:00Z",
       "requiredMinimumOSVersion": "26.2",
       "targetedOSVersionsRule": "default"
     }
